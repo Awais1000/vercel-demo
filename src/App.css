@@ -1,0 +1,14 @@
+.main{
+  border-bottom: 1px solid rgb(207 199 199);;
+}
+.ham-icon{
+  font-size: 25px;
+}
+.ad{
+  display: flex;
+  align-items: center;
+}
+.navbar{
+  padding: 0 !important;
+  
+}
